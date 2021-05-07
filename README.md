@@ -1,4 +1,6 @@
-👋 Hi, I’m @jayghoghari                                                                                                                                                                           
+👋 Hi, I’m @jayghoghari
+
+
 👀 I’m interested in C , C++ , JAVA , HTML , CSS , ADVANCE C
 
 🌱 I’m currently learning JAVA
